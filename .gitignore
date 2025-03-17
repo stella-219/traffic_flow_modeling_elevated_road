@@ -1,0 +1,15 @@
+# macOS system files
+.DS_Store
+
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Python-related files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs and environment files
+*.log
